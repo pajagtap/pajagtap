@@ -1,3 +1,4 @@
+# <p align="center">Hi there.. 👋</p>
 # 💫 About Me:
 Experienced with a blend of Software Development and Data Engineering, primarily working on Python, Spark, Pyspark and Databricks.<br>I will be happy to work on challenging tech and contribute my expertise toward data development platforms. 
 
