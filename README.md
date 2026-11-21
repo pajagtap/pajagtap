@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/pajagtap">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=435&lines=Pratik+Jagtap" alt="Pratik Jagtap" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" alt="Pratik Jagtap" /></a>
 </p>
 
 <p align="center">
