@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="https://github.com/pajagtap">
-    <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" alt="Pratik Jagtap" />-->
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" />
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F2328&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" />
@@ -11,8 +10,11 @@
 </p>
 
 <p align="center">
-  <!-- Typing SVG by pajagtap - https://github.com/pajagtap/readme-typing-svg -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E6EDF3&center=true&vCenter=true&width=435&lines=Data+Engineer+by+Profession;With+over+9%2B+years+of+experience;Learn+%2B+Help+%2B+Grow" alt="">
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=E6EDF3&center=true&vCenter=true&width=435&lines=Data+Engineer+by+Profession;With+over+9%2B+years+of+experience;Learn+%2B+Help+%2B+Grow" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=1F2328&center=true&vCenter=true&width=435&lines=Data+Engineer+by+Profession;With+over+9%2B+years+of+experience;Learn+%2B+Help+%2B+Grow" />
+      <img alt="Pratik Jagtap" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Data+Engineer+by+Profession;With+over+9%2B+years+of+experience;Learn+%2B+Help+%2B+Grow" />
+    </picture>
 </p>
 
 <h2> Hi there, <img src="./assets/p.gif" width="50"></h2>
