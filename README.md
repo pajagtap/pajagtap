@@ -1,7 +1,13 @@
 
 <p align="center">
   <a href="https://github.com/pajagtap">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" alt="Pratik Jagtap" /></a>
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" alt="Pratik Jagtap" />-->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F2328&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" />
+      <img alt="Pratik Jagtap" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=false&width=500&lines=Pratik+Jagtap" />
+    </picture>
+  </a> 
 </p>
 
 <p align="center">
