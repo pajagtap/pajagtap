@@ -99,12 +99,10 @@
 - 🎬 Watch Movies/Web-series <br/>
 - 🧗 Trekking and Travelling <br/>
 - 🎨 Sketching, Painting, Art&Crafts <br/>
-- 🍳 Cooking <br/>
-- etc...<br/>
+- 🍳 Cooking ...etc <br/>
 
 <h2> 🌐 Socials: </h2>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/pajagtap) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-jagtap01) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:<>@gmail.com)](mailto:<>@gmail.com) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/pratik_jagtap01?hr_r=1) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/pratikjagtap) [![Acclaim](https://img.shields.io/badge/Acclaim-26689A.svg?logo=Acclaim&logoColor=white)](https://www.youracclaim.com/users/pratik-jagtap) [![Tableau Badge](https://img.shields.io/badge/-Tableau-89CFF0?logo=Tableau&logoColor=white&link=)]()
 
-<hr/>
-<img src="./assets/c.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
+<hr/> <img src="./assets/c.gif" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
